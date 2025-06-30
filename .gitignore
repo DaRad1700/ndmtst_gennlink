@@ -39,3 +39,8 @@
 
 # debug information files
 *.dwo
+
+client
+client_debug
+server
+server_debug
